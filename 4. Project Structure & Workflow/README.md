@@ -68,7 +68,7 @@ React projects (especially ones created with **Create React App** or **Vite**) u
 
 **Tip:**
 Use **npm** or **yarn**, not both in the same project.
-Modern setups prefer **pnpm** for performance and disk efficiency.
+Modern setups prefer **npm** for performance and disk efficiency.
 
 ---
 
